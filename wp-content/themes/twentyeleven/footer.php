@@ -13,7 +13,7 @@
 	</div><!-- #main -->
 
 	<footer id="colophon" role="contentinfo">
-
+ 
 			<?php
 				/*
 				 * A sidebar in the footer? Yep. You can customize
@@ -22,7 +22,8 @@
 				if ( ! is_404() )
 					get_sidebar( 'footer' );
 			?>
-			<div id="site-generator">
+
+<div id="site-generator">
 				<?php do_action( 'twentyeleven_credits' ); ?>
 				<?php printf( __( 'Туристична агенція "SunTravel" м. Луцьк © 2017' ), 'WordPress' ); ?></a>
 			</div>
