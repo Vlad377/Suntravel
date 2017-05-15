@@ -13,7 +13,7 @@ $current_layout = $options['theme_layout'];
 if ( 'content' != $current_layout ) :
 ?>
 		<div id="secondary" class="widget-area" role="complementary">
-	<iframe src="https://calendar.google.com/calendar/embed?src=vladzhulavskij%40gmail.com&ctz=Europe/Kiev" style="border: 0" width="800" height="450" frameborder="0" scrolling="no"></iframe>
+	<iframe src="https://calendar.google.com/calendar/embed?src=sq0vbdtifhbkvkmlot9kce0gac%40group.calendar.google.com&ctz=Europe/Kiev" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 			<?php if ( ! dynamic_sidebar( 'sidebar-1' ) ) : ?>
 <?php endif; // end sidebar widget area ?>
 		</div><!-- #secondary .widget-area -->

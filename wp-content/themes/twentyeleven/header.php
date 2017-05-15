@@ -71,7 +71,12 @@
 <div id="page" class="hfeed">
 	<header id="branding" role="banner">
 			<hgroup>
-				<h1 id="site-title"><span><a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a></span></h1>
+				<h1 id="site-title"><span><a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a>
+<a href="https://www.facebook.com/suntravelutsk/" target="_blank"> <img style="width: auto !important;" src="/wp-content/uploads/2017/05/iconFaceBook.png" /> </a> 
+<a href="https://www.instagram.com/suntravel7997/" target="_blank"> <img style="width: auto !important;" src="/wp-content/uploads/2017/05/instagram-1.png" /> </a> 
+<a href="https://vk.com/suntravel7997" target="_blank"> <img style="width: auto !important;" src="/wp-content/uploads/2017/05/vk.png"/> </a> 
+</span>
+</h1>
 				<h2 id="site-description"><?php bloginfo( 'description' ); ?></h2>
 			</hgroup>
 
